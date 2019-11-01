@@ -1,0 +1,4 @@
+Resource Owner Password Credentials
+
+
+我想运行一下TA，但是我安装的Jmeter无法打开jmx文件，错误信息是缺少依赖的jar包，但是按照上网搜到的方法添加了相应的jar包还是没有解决。我看到wiki上面这个项目文档作者是您，所以想请问您知不知道这个项目的TA是谁写的，我想直接找他copy一份jmeter工具，看看自己的就Jmeter是不是缺少什么
