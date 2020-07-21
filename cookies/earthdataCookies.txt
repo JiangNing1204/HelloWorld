@@ -1,0 +1,2 @@
+#LWP-Cookies-2.0
+Set-Cookie3: _urs-gui_session=d85e0a7228fa2ff2d5167feef7def58e; path="/"; domain="urs.earthdata.nasa.gov"; path_spec; expires="2020-07-06 21:57:49Z"; HttpOnly=None; version=0

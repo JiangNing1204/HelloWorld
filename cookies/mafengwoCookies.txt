@@ -1,0 +1,5 @@
+#LWP-Cookies-2.0
+Set-Cookie3: login=mafengwo; path="/"; domain=".mafengwo.cn"; path_spec; expires="2021-07-05 22:17:23Z"; version=0
+Set-Cookie3: mfw_uuid="5f025172-6123-9a81-85c7-2f28ff5f18f7"; path="/"; domain=".mafengwo.cn"; path_spec; domain_dot; expires="2021-07-05 22:17:23Z"; version=0
+Set-Cookie3: oad_n="a%3A3%3A%7Bs%3A3%3A%22oid%22%3Bi%3A1029%3Bs%3A2%3A%22dm%22%3Bs%3A20%3A%22passport.mafengwo.cn%22%3Bs%3A2%3A%22ft%22%3Bs%3A19%3A%222020-07-06+06%3A17%3A22%22%3B%7D"; path="/"; domain=".mafengwo.cn"; path_spec; domain_dot; expires="2020-07-12 22:17:23Z"; version=0
+Set-Cookie3: __jsluid_s=cb2d7ea656e23cabcd64bd5bcc819fc6; path="/"; domain="passport.mafengwo.cn"; path_spec; secure; expires="2021-07-05 22:17:23Z"; HttpOnly=None; version=0
