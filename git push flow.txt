@@ -1,0 +1,5 @@
+git clone -b branch 远程分支
+复制新的文件进去
+git add .
+git commit -m '注释'
+git push origin 远程分支
